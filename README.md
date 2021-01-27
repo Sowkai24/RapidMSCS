@@ -1,5 +1,4 @@
 # RapidMSCS
-Download: https://github.com/Sowkai24/RapidMSCS/releases
 Get a minecraft server on your RPI faster than anything.(This statement is prob. outdated)
 Preconfigured Minecraft Java server utilizing MSCS. Easier than tedious typing.
 This OS is just my installation script in an OS.
